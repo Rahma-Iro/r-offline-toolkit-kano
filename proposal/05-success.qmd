@@ -4,7 +4,7 @@ This section defines what successful completion of the project looks like, how i
 
 ---
 
-## Definition of Done
+## Definition of Success
 
 The project will be considered successful when the following outputs are fully completed and delivered:
 
