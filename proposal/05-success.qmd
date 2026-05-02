@@ -1,4 +1,4 @@
-## Success
+# Success
 
 This section defines what successful completion of the project looks like, how it will be measured, and how it can evolve beyond the initial funding period.
 
