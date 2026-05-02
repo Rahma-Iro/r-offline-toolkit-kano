@@ -1,50 +1,42 @@
-# The proposal
-<!--
-How are you going to solve the problem? Include the concrete actions you
-will take and an estimated timeline. What are likely failure modes and
-how will you recover from them?
+# Proposed Solution
 
-This is where the proposal should be outlined.
--->
+### Objectives
 
-## Overview
-<!--
-At a high-level address what your proposal is and how it will address
-the problem identified. Highlight any benefits to the R Community that
-follow from solving the problem. This should be your most compelling
-section.
+**Primary Objective:**  
+To develop and pilot an open-source, offline-first R education toolkit that enables beginners in low-resource environments to learn R programming effectively.
 
-Include concrete actions you will take and estimated timeline.
--->
+**Specific Objectives:**
+- Develop a structured beginner-friendly R curriculum (6–8 modules) in English and Hausa  
+- Create an offline-accessible learning package  
+- Design a train-the-trainer framework  
+- Pilot the toolkit in Kano  
+- Publish all materials as open-source  
 
-## Detail
-<!--
-Go into more detail about the specifics of the project and how it delivers
-against the problem.
+---
 
-Depending on project type the detail section should include:
--->
+### Methodology
 
-### Minimum Viable Product
+The project will be implemented over approximately 3–4 months in five phases:
 
-<!--
-What is the smallest thing you can build that delivers value to your users?
--->
+**Phase 1: Needs Assessment and Curriculum Design (Weeks 1–3)**  
+Engage local learners and communities to identify gaps and define curriculum structure.
 
-### Architecture
+**Phase 2: Content Development and Localization (Weeks 4–8)**  
+Develop lessons, translate into Hausa, and create beginner-friendly materials.
 
-<!--
-What does the high-level architecture look like?
--->
+**Phase 3: Offline Toolkit Development (Weeks 6–9)**  
+Create a fully offline learning package with datasets and installation guides.
 
-### Assumptions
+**Phase 4: Pilot Implementation (Weeks 10–12)**  
+Train 50–100 learners and 8–12 facilitators.
 
-<!--
-What assumptions are you making that, if proven false, would invalidate the project?
--->
+**Phase 5: Evaluation and Open-Source Release (Weeks 12–14)**  
+Refine materials and publish them for global use.
 
-### External dependencies
+---
 
-<!--
-What external dependencies does the project have (e.g. libraries, services, other projects, etc.)?
--->
+### Sustainability
+
+Sustainability will be achieved through a train-the-trainer model, enabling local facilitators to continue delivering training independently. All materials will be released as open-source to allow reuse and adaptation globally.
+
+Partnerships with local communities such as R-Ladies Kano will support continued use and expansion. Future plans include scaling to other regions and developing advanced modules.
